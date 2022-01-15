@@ -2,22 +2,16 @@
 
 **InstagramClone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **8** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [X] User can sign up to create a new account using Parse authentication.
-- [X] User can log in and log out of his or her account.
-- [X] The current signed in user is persisted across app restarts.
-- [X] User can take a photo, add a caption, and post it to "Instagram".
+- [X] User can view last 20 posts submitted to Instagram.
+- [X] User is able to switch between different tabs - view all posts, compose tab and profile tab.
+- [X] User can pull to refresh last 20 posts.
 
-The following *additional** features are implemented:
-
-- [ ] User sees app icon in home screen and styled bottom navigation view
-- [ ] Style the feed to look like the real Instagram feed.
-- [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
 
 ## Video Walkthrough
 
